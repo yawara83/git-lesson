@@ -1,2 +1,3 @@
 hello, git
 good-bye, git
+good morning, git
