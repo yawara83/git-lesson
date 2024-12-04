@@ -1,1 +1,2 @@
 hello, old file.
+goodbye, old file.
